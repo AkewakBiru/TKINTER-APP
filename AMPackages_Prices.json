@@ -1,0 +1,34 @@
+{
+  "Gold Member": [
+    {
+      "min_yrs": 5,
+      "max_yrs": "",
+      "discount": 0.5,
+      "monthly_payment": 100
+    }
+  ],
+  "Silver Member": [
+    {
+      "min_yrs": 3,
+      "max_yrs": 4,
+      "discount": 0.25,
+      "monthly_payment": 100
+    }
+  ],
+  "Bronze Member": [
+    {
+      "min_yrs": 1,
+      "max_yrs": 2,
+      "discount": 0.1,
+      "monthly_payment": 100
+    }
+  ],
+  "Other": [
+    {
+      "min_yrs": "",
+      "max_yrs": 1,
+      "discount": 0,
+      "monthly_payment": 100
+    }
+  ]
+}
